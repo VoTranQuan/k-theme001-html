@@ -9066,7 +9066,7 @@ button,
 .app-header__logo .logo-src {
   height: 42px;
   width: 42px;
-  background: url(../images/logo-001.png);
+  background: url(assets/images/logo-001.png);
   background-size: cover;
 }
 .app-header__menu,
@@ -9351,7 +9351,7 @@ button,
   background: rgba(0, 0, 0, 0.8);
 }
 .app-header.header-text-dark .app-header__logo .logo-src {
-  background: url(../images/logo-001.png);
+  background: url(assets/images/logo-001.png);
 }
 .app-sidebar {
   width: 280px;
