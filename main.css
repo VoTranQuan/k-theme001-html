@@ -13489,7 +13489,7 @@ a.badge-alternate:focus {
   background-color: #5c3a69;
 }
 .badge {
-  font-weight: bold;
+  font-family: MavenPro-Bold;
   text-transform: uppercase;
   padding: 5px 10px;
   min-width: 19px;
