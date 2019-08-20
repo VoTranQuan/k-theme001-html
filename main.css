@@ -4464,6 +4464,10 @@ input[type='button'].btn-block {
   background-color: #fff;
   border-bottom: 1px solid rgba(26, 54, 126, 0.125);
 }
+.card-header .card-header-bold {
+  font-family: MavenPro-Bold;
+  font-size: 1rem;
+}
 .card-header:first-child {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
 }
@@ -13324,7 +13328,7 @@ body {
   position: relative;
   transition: color 0.15s, background-color 0.15s, border-color 0.15s,
     box-shadow 0.15s;
-  font-size: 0.8rem;
+  font-size: 0.88rem;
 }
 @media screen and (prefers-reduced-motion: reduce) {
   .btn {
@@ -13592,6 +13596,8 @@ a.badge-alternate:focus {
   display: flex;
   align-items: center;
   white-space: nowrap;
+  font-family: MavenPro-Bold;
+  font-size: 1rem;
 }
 .card-header .header-icon {
   font-size: 1.65rem;
@@ -14027,7 +14033,7 @@ legend {
 }
 .widget-content .widget-content-left .widget-heading {
   opacity: 0.8;
-  font-weight: bold;
+  font-family: MavenPro-Medium;
 }
 .widget-content .widget-content-left .widget-subheading {
   opacity: 0.5;
